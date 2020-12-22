@@ -13,3 +13,5 @@ print(type(gender))
 print(type(age))
 print(type(height))
 print(type(weight))
+
+#içimi was here
